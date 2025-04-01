@@ -1,10 +1,11 @@
+![Screenshot 2025-04-01 083931](https://github.com/user-attachments/assets/f8eaea22-c0b8-485d-ace0-63f15cab12b2)
 Baltimore County GIS Analysis
 
 Overview
 
 This GIS project visualizes key spatial data related to urban planning and economic development in Baltimore County, Maryland. Using QGIS, this map integrates multiple data layers to highlight vacant properties, shopping centers, transportation zones, and priority funding areas.
-![Screenshot 2025-04-01 083931](https://github.com/user-attachments/assets/f8eaea22-c0b8-485d-ace0-63f15cab12b2)
-![Screenshot 2025-04-01 083931](https://github.com/user-attachments/assets/8bcae35d-54dd-4798-ac88-dab170878da0)
+
+
 
 Features
 
